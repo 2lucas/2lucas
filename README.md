@@ -1,7 +1,7 @@
 ### Hello, I'm Lucas de Souza
 
 - 🌱 I’m currently learning Red Team; Python3 + Django; HTML, CSS & JS
-- 👯 I’m looking to collaborate on AppSec
+- 👯 I’m looking to collaborate on DevSecOps and tools for cybersecurity
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Pizza 🍕
 
